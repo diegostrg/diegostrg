@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/psi4pEeIZ6c.gif"  />
+  <img height="450" src="moo-moo-meadows-get-real.gif" />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am Diego, still a systems engineering student who lives in Bogotá, Colombia. I am learning to be a software developer and architect little by little, with personal and institutional projects, and some work challenges.<br><br>I really enjoy web development, especially both backend and frontend development. My goal is to become a full-stack developer someday, and I'm constantly learning and improving along the way. I enjoy building things, understanding how systems work behind the scenes, and finding better ways to solve problems through technology.<br><br>Outside of programming, I'm a huge music lover. Some of my favorite artists are Duster, Matt Maltese, Nesquik, Tyler, The Creator, and Ed Maverick. I also enjoy video games a lot; my favorite single-player games are Undertale and Uncharted.<br><br>Most of the time, you'll find me learning something new, working on a project, listening to music, or exploring ideas that help me grow as a developer. :)</p>
+<p align="left">I am Diego, still a systems engineering student who lives in Bogotá, Colombia. I am learning to be a software developer and architect little by little, with personal and institutional projects, and some work challenges.<br><br>I really enjoy web development, especially both backend and frontend development. My goal is to become a full-stack developer someday, and I'm constantly learning and improving along the way. I enjoy building things, understanding how systems work behind the scenes, and finding better ways to solve problems through technology.<br><br>Outside of programming, I'm a huge music lover. Some of my favorite artists are Duster, Matt Maltese, Nsqk, Tyler, The Creator, and Ed Maverick. I also enjoy video games a lot; my favorite single-player games are Undertale and Uncharted.<br><br>Most of the time, you'll find me learning something new, working on a project, listening to music, or exploring ideas that help me grow as a developer. :)</p>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">now oooohhh damn, my stats:</h3>
+<h3 align="left">now oooohhh damn, my Stats:</h3>
 
 ###
 
